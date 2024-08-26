@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/populate_database/connect_database.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/create_judete.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/create_tables.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/populate_medii_somaj.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/populate_nivel_educatie_somaj.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/populate_rata_somaj.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/populate_database/populate_varste_somaj.py" dialect="GenericSQL" />
+  </component>
+</project>
