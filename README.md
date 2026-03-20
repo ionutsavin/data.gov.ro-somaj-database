@@ -1,4 +1,4 @@
-# Unemployment Data Scrapper
+# Unemployment Data Scraper
 
 ## Overview
 
